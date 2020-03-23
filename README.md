@@ -1,8 +1,4 @@
-# 个人博客
 
-这是我的个人博客项目，里面会记录生活和技术的点点滴滴。
-
-
-访问地址：[http://www.zhaozishan.com/](http://www.zhaozishan.com/)
-
-
+赵梓杉的官方博客
+博客的搭建教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 
+ 
