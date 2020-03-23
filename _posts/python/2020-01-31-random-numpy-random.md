@@ -4,7 +4,7 @@ title:      python
 subtitle:   比较random和numpy.random
 date:       2020-01-31
 author:     赵梓杉
-header-img: img/test.jpg
+header-img: img/blog/desk_blue.jpg
 catalog: true
 tags:
     - python

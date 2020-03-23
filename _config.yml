@@ -11,7 +11,7 @@ github_repo: "https://github.com/PythonDS/PythonDS.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "向前出发，保持斗志！"
+sidebar-about-description: "做一个有修养的数据分析师！"
 sidebar-avatar: /img/zishan-zhao.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
